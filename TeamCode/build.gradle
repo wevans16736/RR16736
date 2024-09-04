@@ -43,5 +43,5 @@ dependencies {
     implementation "com.acmerobotics.roadrunner:core:1.0.0"
     implementation "com.acmerobotics.roadrunner:actions:1.0.0"
     implementation "com.acmerobotics.dashboard:dashboard:0.4.14"
-    implementation "com.github.wevans16736:road-runner-ftc-16736-debugging:7acdd51f83"
+    implementation "com.github.wevans16736:road-runner-ftc-16736-debugging:e01c17da46"
 }
